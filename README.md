@@ -29,7 +29,7 @@ A simple and interactive movie tracking app built with React. Users can search f
   ---
 
   ## Tech Stack
-  - React, Context API, React Hooks
+  - Frontend: React, Context API, React Hooks
   - State Management: useReducer + Context
   - Persistent Storage: LocalStorage
   - API: OMDb API for movie search
